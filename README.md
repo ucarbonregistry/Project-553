@@ -58,5 +58,6 @@ Wind Power Project by M/s Nilgiri Power Private Limited in Maharashtra, India	/N
 _____________
 Wind Power Project by M/s Sispara Renewable Power Private Limited in Maharashtra, India	/Sispara Renewable Power Private Limited	India	/04 Dec 2014
 _______________
+Sayamalai Wind Power Project in Maharashtra, India/	NSL Wind Power Company (Sayamalai) Pvt., Ltd.	India	/07 Feb 2014
+_______________
 
-PP(s) for which DOE have a contractual obligation	Sispara Renewable Power Private Ltd
