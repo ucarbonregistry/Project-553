@@ -107,6 +107,19 @@ Project Registration Date
 
 Crediting Period Term
 CREDITING PERIOD HAS EXPIRED, 13/02/2015 - 12/02/2025
+_________
+MP Start Date:			01-01-2023
+MP End Date	:		31-12-2023
+
+Days			365
+
+Annual VCU as per registered VCSPD			60,746
+
+Estimated VCU in VCS PD for the equivalent period of the current MP			60,746
+
+Actual values achieved during this monitoring period			69,695
+<img width="505" height="109" alt="image" src="https://github.com/user-attachments/assets/bf5d92fa-d9be-4c91-9329-679802669179" />
+
 _________________
 VINTAGE: QTY
 _________
