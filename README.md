@@ -119,7 +119,8 @@ Estimated VCU in VCS PD for the equivalent period of the current MP			60,746
 
 Actual values achieved during this monitoring period			69,695
 <img width="505" height="109" alt="image" src="https://github.com/user-attachments/assets/bf5d92fa-d9be-4c91-9329-679802669179" />
-
+_________
+VCS ISSUANCE STATUS
 _________________
 VINTAGE: QTY
 _________
