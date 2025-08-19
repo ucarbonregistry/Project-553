@@ -24,6 +24,24 @@ based. Also, the project activity helps reducing the demand-supply gap in the st
 contributing to the sustainable development attributes in the project region. 
 ____________
 PRIOR HISTORY
+
+The first WTG under the project was commissioned on 31st March 2015 and the project is under
+continuous operation since then. The entire project was fully commissioned as on 31st October2015.
+
+The project was mainly invested based on carbon revenue; hence the project was initially registered
+under Clean Development Mechanism (CDM) as sub projects, titled “Wind Power Project by M/s
+Sispara Renewable Power Private Limited in Maharashtra, India”, “Wind Power Project by M/s
+Kalsubai Power Private Limited in Maharashtra, India”, “Wind Power Project by M/s Nilgiri Power
+Private Limited in Maharashtra, India”, “Wind Power Project by M/s NSL Wind Power Company
+(Sayamalai) Pvt. Ltd. in Maharashtra, India”. 
+
+Also was registered under VCS mechanism (VCS ID 1660) to secure position under voluntary platform. The crediting period of the project
+under VCS was started on 13th February 2015 and ends on 12th February 2025. The project has already claimed carbon credits under VCS for the period “13th February 2015 and ends on 12th February 2025”. Thereafter, the project was considered under VCS mechanism till 12th February 2025. However, the project has not been further under VCS beyond 12th February 2025.
+
+In continuation with the same, the UCR project has been considered crediting of GHG emission
+reductions from 13th February 2025. Hence, the first monitoring period considered under UCR is
+from 13th February 2025, thus there is no concern of double accounting of emission reductions.
+
 __________
 UNFCCC CDM
 
