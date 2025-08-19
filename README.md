@@ -78,4 +78,34 @@ Wind Power Project by M/s Sispara Renewable Power Private Limited in Maharashtra
 _______________
 Sayamalai Wind Power Project in Maharashtra, India/	NSL Wind Power Company (Sayamalai) Pvt., Ltd.	India	/07 Feb 2014
 _______________
+VCS ID 1660
+
+State/Province
+Maharashtra
+
+VCS
+Proponent
+M/s Sispara Renewable Power Private Limited
+
+VCS Project Status
+Verification approval requested
+
+Estimated Annual Emission Reductions
+60746
+
+VCS Project Type
+Energy industries (renewable/non-renewable sources)
+
+VCS Methodology
+ACM0002
+
+VCS Project Validator
+LGAI Technological Center, S.A. (Applus+ Certification)
+
+Project Registration Date
+14/02/2017
+
+Crediting Period Term
+CREDITING PERIOD HAS EXPIRED, 13/02/2015 - 12/02/2025
+_________________
 
